@@ -1,0 +1,42 @@
+[
+    {"name":"NYU",
+    "gpa":91,
+    "zipcode":10003
+    },
+    
+    
+    
+    {"name":"JohnJay",
+    "gpa":90,
+    "zipcode":10005
+    },
+    
+    
+    
+    {"name":"Columbia",
+    "gpa":95,
+    "zipcode":10027
+    },
+    
+    
+     
+    {"name":"City College",
+    "gpa":82,
+    "zipcode":10466
+    },
+    
+    
+    
+    {"name":"Hunter College",
+    "gpa":87,
+    "zipcode":10065
+    },
+    
+    
+    
+    {"name":"Fordham University",
+    "gpa":90,
+    "zipcode":10458
+    }
+    ]
+    
